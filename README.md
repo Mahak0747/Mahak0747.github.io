@@ -20,8 +20,8 @@
 
 ### 🎮 Game Dev & Design
 ![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white)
-![Image](https://github.com/user-attachments/assets/1f837898-843b-4af3-8d3b-14515cba0c1a)
-![Image](https://github.com/user-attachments/assets/7c46df04-cdd6-42a4-be08-422c9c82d381)
+![Image](https://github.com/user-attachments/assets/0e48eab9-fe16-4111-aa7a-79318dd0d1ad)
+![Image](https://github.com/user-attachments/assets/1a24dbdb-26e3-41a6-8ce0-38e9c83731ae)
 
 ### 🤖 AI/ML
 ![AI](https://img.shields.io/badge/AI-FFD700?logo=ai&logoColor=black) 
