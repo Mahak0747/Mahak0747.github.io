@@ -44,7 +44,7 @@
 - 💻 Experience with Python, Java, and Web Development.
 - 🏆 **Coding Profiles Tracker**:-
   
-  [![Codolio](https://img.shields.io/badge/Codolio-f09e05?logo=portfolio&logoColor=white)](https://codolio.com/profile/Mahak)
+  [![Codolio](https://img.shields.io/badge/Codolio-f09e05?logo=portfolio&logoColor=white)](https://codolio.com/profile/Mahak.)
 
 ---
 
