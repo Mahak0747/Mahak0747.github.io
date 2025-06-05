@@ -8,31 +8,39 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
-[![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)](https://www.java.com/en/)
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
-[![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)](https://www.r-project.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://en.wikipedia.org/wiki/JavaScript)
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+</p>
 
 ### 🌐 Web Development
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://en.wikipedia.org/wiki/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://en.wikipedia.org/wiki/JavaScript)
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+</p>
 
 ### 🎮 Game Dev & Design
-[![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white)](https://unity.com/)
-[![Image](https://github.com/user-attachments/assets/0e48eab9-fe16-4111-aa7a-79318dd0d1ad)](https://www.blender.org/)
-[![Image](https://github.com/user-attachments/assets/1a24dbdb-26e3-41a6-8ce0-38e9c83731ae)](https://www.mixamo.com/#/)
+<p>
+  <img src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" alt="Unity" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="Blender" width="40" height="40"/>
+  <img src="https://github.com/user-attachments/assets/431d5bb6-0323-4455-b5f4-eba375e28160" alt="Mixamo" width="120" height="40"/>
+</p>
 
 ### 🤖 AI/ML
 [![AI](https://img.shields.io/badge/AI-FFD700?logo=ai&logoColor=black)](https://en.wikipedia.org/wiki/Artificial_intelligence)
 [![Machine Learning](https://img.shields.io/badge/ML-FFA500?logo=ml&logoColor=white)](https://en.wikipedia.org/wiki/Machine_learning)
 [![Deep Learning](https://img.shields.io/badge/Deep_Learning-00008B?logo=dl&logoColor=white)](https://en.wikipedia.org/wiki/Deep_learning)
 
-### 🔧 Tools
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/)
-[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](https://www.figma.com/)
-[![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white)](https://www.canva.com/)
+### 🧰 Tools
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
+  <img src="https://github.com/user-attachments/assets/0bb1877b-4907-4afd-bd25-e99c1a3b9f0f" alt="Canva" width="40" height="40"/>
+</p>
 
 ---
 
@@ -45,12 +53,13 @@
 - 🏆 **Coding Profiles Tracker**:-
   
   [![Codolio](https://img.shields.io/badge/Codolio-f09e05?logo=portfolio&logoColor=white)](https://codolio.com/profile/Mahak.)
-
+  
 ---
 
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahak-goswami-4224aa326/)  [![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white)](mahak.goswami2050@gmail.com)  
+<a href="https://www.linkedin.com/in/mahak-goswami-4224aa326/"><img src="https://github.com/user-attachments/assets/515fc5fa-872f-4c79-bb68-42d837448491" alt="Canva" width="40" height="40"/></a>
+<a href="mahak.goswami2050@gmail.com"><img src="https://github.com/user-attachments/assets/65cace56-d22a-45d9-8310-3a6efc603484" alt="Canva" width="40" height="40"/></a>
 
 ---
 
