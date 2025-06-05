@@ -58,8 +58,9 @@
 
 ## 🤝 Connect With Me
 
-<a href="https://www.linkedin.com/in/mahak-goswami-4224aa326/"><img src="https://github.com/user-attachments/assets/515fc5fa-872f-4c79-bb68-42d837448491" alt="Canva" width="40" height="40"/></a>
-<a href="mahak.goswami2050@gmail.com"><img src="https://github.com/user-attachments/assets/65cace56-d22a-45d9-8310-3a6efc603484" alt="Canva" width="40" height="40"/></a>
+<a href="https://www.linkedin.com/in/mahak-goswami-4224aa326/"><img src="https://github.com/user-attachments/assets/515fc5fa-872f-4c79-bb68-42d837448491" alt="LinkedIn" width="40" height="40"/></a>
+<a href="mahak.goswami2050@gmail.com"><img src="https://github.com/user-attachments/assets/65cace56-d22a-45d9-8310-3a6efc603484" alt="Mail" width="40" height="40"/></a>
+<a href="https://leetcode.com/u/MahakG07/"><img src="https://github.com/user-attachments/assets/2a86c06d-f351-4ad9-aa6a-425f286967a3" alt="LeetCode" width="40" height="40"/></a>
 
 ---
 
